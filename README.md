@@ -13,7 +13,7 @@
 ## Sales  Window ## 
 ![venta 1](https://user-images.githubusercontent.com/31390537/126874472-edd08888-4eb9-4a6f-a4c7-db344ab94c82.PNG)
 ## Sales looking for the books to sale ##
-![venta 1](https://user-images.githubusercontent.com/31390537/126874472-edd08888-4eb9-4a6f-a4c7-db344ab94c82.PNG)
+![venta  1 add product](https://user-images.githubusercontent.com/31390537/126874595-9002fa8d-ade1-454b-995f-ba37aa05c552.PNG)
 ## Sales after adding books ##
 ![venta 1 result](https://user-images.githubusercontent.com/31390537/126874514-5db9948f-95b7-4da7-b225-1db114ecd18e.PNG)
 ## Sales making a sale ##
